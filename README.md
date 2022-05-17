@@ -12,7 +12,7 @@ Cluster project for university course [Uvod u složeno pretraživanje podataka](
 
 ## Licence
   
- [Cluster](https://github.com/sopetra/cluster) © 2021 by [Petra Sočo](https://github.com/sopetra) and [Jelena Zaninović] (https://github.com/jelzani) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
+ [Cluster](https://github.com/sopetra/cluster) © 2021 by [Petra Sočo](https://github.com/sopetra) and [Jelena Zaninović](https://github.com/jelzani) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
 [![CC 4.0][cc-image]][cc]
 
