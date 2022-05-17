@@ -1,4 +1,4 @@
-%Ime datoteke s dokumentima
+%ime datoteke s dokumentima
 filename="1.txt";
 %filename="2.txt";
 %filename="3.txt";
