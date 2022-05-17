@@ -4,7 +4,7 @@
 [![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#beta)
 
 
-Cluster project for university course [kolegij](Link_kolegija), academic year 2020/2021, University of Zagreb, Faculty of Science, Department of Mathematics.
+Cluster project for university course [Uvod u složeno pretraživanje podataka](http://www.pmf.unizg.hr/math/predmet/uuspp_a), academic year 2020/2021, University of Zagreb, Faculty of Science, Department of Mathematics.
 
 
 
@@ -12,7 +12,7 @@ Cluster project for university course [kolegij](Link_kolegija), academic year 20
 
 ## Licence
   
- [Cluster](https://github.com/sopetra/cluster) © 2021 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
+ [Cluster](https://github.com/sopetra/cluster) © 2021 by [Petra Sočo](https://github.com/sopetra) and [Jelena Zaninović] (https://github.com/jelzani) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
 [![CC 4.0][cc-image]][cc]
 
